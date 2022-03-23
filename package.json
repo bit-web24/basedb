@@ -1,0 +1,54 @@
+{
+  "_from": "basedb",
+  "_id": "basedb@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-mVWoq4CMhy4OHacv53rM4pwXStGPpvgaYts8Wvm+EsKraNBxTXXaRVPvVMoWEhVVZC9PH1bT3E+4j5sjhidoBQ==",
+  "_location": "/basedb",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "basedb",
+    "name": "basedb",
+    "escapedName": "basedb",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/basedb/-/basedb-2.0.4.tgz",
+  "_shasum": "dbb6e86d989aab73c82a327b1b81acb07e3657ae",
+  "_spec": "basedb",
+  "_where": "C:\\Users\\user\\Desktop\\ABCD\\NPM",
+  "author": {
+    "name": "Bittu"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "deprecated": false,
+  "description": "basedb is a lightweight and portable database for storing data in json format",
+  "keywords": [
+    "mongodb",
+    "databse",
+    "nodebase",
+    "basedb",
+    "db",
+    "dB",
+    "jsonDB",
+    "json",
+    "jsondb",
+    "mongoose"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "basedb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.0"
+}
